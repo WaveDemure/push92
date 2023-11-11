@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: educational-template
-    env: docker
-    plan: free
